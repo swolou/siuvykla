@@ -1,0 +1,23 @@
+{
+  "name": "siuvykla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swolou/2020.git"
+  },
+  "author": "Tomas Atkociunas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swolou/2020/issues"
+  },
+  "homepage": "https://github.com/swolou/2020#readme",
+  "devDependencies": {
+    "webpack": "^4.23.0",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
